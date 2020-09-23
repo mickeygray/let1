@@ -52,6 +52,12 @@ const Distraint = () => {
             File A Complaint
           </button>
           <br />
+          <h5>
+            <i>
+              Your complaints are completely anonymous and could lead to
+              financial compensation if you were directly impacted by this scam.
+            </i>
+          </h5>
           <ul>
             <li>
               <h4>
@@ -69,11 +75,6 @@ const Distraint = () => {
               </h5>
             </li>
           </ul>
-          <br />
-          <h5>
-            Your complaints are completely anonymous and could lead to financial
-            compensation if you were directly impacted by this scam.
-          </h5>
         </div>
       </div>
     </div>
