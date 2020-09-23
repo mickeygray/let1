@@ -582,7 +582,9 @@ img {
   grid-template-columns: 2fr 1fr;
   grid-gap: 1rem;
 }
-
+.m-2 {
+  margin: 2rem 4rem 2rem 2rem;
+}
 .grid-3 {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
