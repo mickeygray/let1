@@ -63,23 +63,6 @@ const Distraint = () => {
             </i>
           </h5>
           <br />
-          <ul>
-            <li>
-              <h4>
-                Disbarred Attorney Terrance Selb sends these mailers to people
-                in an attempt to solicit services.
-              </h4>
-            </li>
-            <br />
-            <li>
-              <h5>
-                We are actively submitting all complaints against Terrance Selb,
-                Tyler Bennet, Chris Baker, Ben Graupner and Andruw Rapport and
-                the companies American Tax Solutions, Tax Debt Group and
-                GetATaxLawyer.com to the BBB, FTC and State of California.
-              </h5>
-            </li>
-          </ul>
         </div>
       </div>
     </div>
