@@ -58,6 +58,7 @@ const Distraint = () => {
               financial compensation if you were directly impacted by this scam.
             </i>
           </h5>
+          <br />
           <ul>
             <li>
               <h4>
