@@ -18,16 +18,20 @@ const Distraint = () => {
   }, []);
 
   return (
-    <div className='container '>
-      <div className='grid-2'>
+    <div>
+      <div className='grid-2c'>
         <div>
           {modal ? (
             <Modal3 urls={urls} toggleModal={toggleModal} />
           ) : (
-            <img src={distraint} alt='Distraint Warranted Letter' />
+            <img
+              style={{ height: "150vh" }}
+              src={distraint}
+              alt='Distraint Warranted Letter'
+            />
           )}
         </div>
-        <div>
+        <div style={{ marginRight: "10rem", marginTop: "8rem" }}>
           <br />
 
           <h2 className='lead' style={{ color: "red" }}>
