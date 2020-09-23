@@ -37,12 +37,12 @@ const Distraint = () => {
           <h2 className='lead' style={{ color: "red" }}>
             Distraint Warrant Letter
           </h2>
-          <h3>
+          <h3 className='py-1'>
             Pending Legal Action Against American Tax Solutions,
             GetATaxLawyer.com and Tax Debt Resolution
           </h3>
 
-          <h4>
+          <h4 className='py-1'>
             <i>
               If you or a loved one has recieved a letter like this one, you may
               be entitled to compensation as an ongoing complaint filed against
@@ -50,14 +50,14 @@ const Distraint = () => {
               Selb Aka Chris Baker.{" "}
             </i>
           </h4>
-          <br />
+
           <button
             className='btn btn-block btn-dark'
             onClick={() => setModal((prevState) => !prevState)}>
             File A Complaint
           </button>
-          <br />
-          <h5>
+
+          <h5 className='py-1'>
             <i>
               Your complaints are completely anonymous and could lead to
               financial compensation if you were directly impacted by this scam.
