@@ -31,7 +31,7 @@ const Distraint = () => {
             />
           )}
         </div>
-        <div style={{ marginRight: "8rem", marginTop: "5rem" }}>
+        <div className='m-2'>
           <br />
 
           <h2 className='lead' style={{ color: "red" }}>
