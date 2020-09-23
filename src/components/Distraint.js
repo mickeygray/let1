@@ -25,7 +25,7 @@ const Distraint = () => {
             <Modal3 urls={urls} toggleModal={toggleModal} />
           ) : (
             <img
-              style={{ height: "150vh" }}
+              style={{ height: "150vh", width: "85%" }}
               src={distraint}
               alt='Distraint Warranted Letter'
             />
@@ -41,6 +41,7 @@ const Distraint = () => {
             Pending Legal Action Against American Tax Solutions,
             GetATaxLawyer.com and Tax Debt Resolution
           </h3>
+
           <h4>
             <i>
               If you or a loved one has recieved a letter like this one, you may
